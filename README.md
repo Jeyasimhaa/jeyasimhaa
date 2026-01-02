@@ -21,3 +21,6 @@
 
 --- 
 
+# Projects 
+ Student Score - Linear Regression[here](https://datascience-foav46c3bmel3kpt7pg6v6.streamlit.app/)
+ Purchase Score - KNN[here](https://datascience-byekhugvqknycstrpcfm2c.streamlit.app/)
