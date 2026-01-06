@@ -6,7 +6,7 @@
 
 ## 🔥 About Me
 - 🛠️ **Primary Skills:**  
-  Python Expert  | Data Analyst  
+  Python Expert  | Data Science  
   Github Expert | StreamLit  | Problem Solving (DSA)  
 ---
 
