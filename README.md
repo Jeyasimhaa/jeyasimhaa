@@ -15,9 +15,8 @@
 | Area        | Skills                                                                 |
 |-------------|------------------------------------------------------------------------|
 | Languages   | Java (Intermediate DSA), Python (Intermediate), Go, Bash               |
-| Security    | Burp Suite, OWASP ZAP, Nmap, Metasploit, SQLMap                        |
-| Web Exploits| API Testing, Clickjacking, XSS, SQLi, CSRF, SSRF, LLM Attacks          |
-| Tools       | Kali Linux, Postman, Ghidra, Wireshark, Git                            |
+| Cloud       | StreamLit , Flask , GitHub Ingretration                                |
+| Tools       | Kali Linux, Wireshark, Git                                             |
 
 --- 
 
