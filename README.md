@@ -36,7 +36,14 @@
  ** DBSCAN Clustering[Here](https://datascience-u3r3xxgswzxutctz8tlfwq.streamlit.app/)<br/>
  🔹 Model Evaluation Technique</br>
  ** Cross Validation[Here](https://datascience-igqbdryhtv4a4yci6yuq8c.streamlit.app/)<br/>
-🤖 Deep Learning Algorithms
+🤖 Deep Learning Algorithms<br/>
+    🏫 Smart Campus Vehicle Monitoring System 🚗🚍<br/>
+    🎥 Smart CCTV Vehicle Counting System <br/>
+    🚗🚌 College Bus vs Car Classifier using CNN<br/>
+    **DATA REGUMATION[Here](https://datascience-9qyvfgasrfccjyyp3k8uez.streamlit.app/)<br/>
+AI MINI PROJECT(Prompt Engineering)
+🎓 AI Student Report Generator
+    [Here](http://localhost:8505/)<br/>
  
  
  
