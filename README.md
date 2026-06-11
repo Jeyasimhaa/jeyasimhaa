@@ -35,8 +35,3 @@
 🤖 Deep Learning Algorithms<br/>
     🏫 Smart Campus Vehicle Monitoring System 🚗🚍| 🎥 Smart CCTV Vehicle Counting System <br/>
     **DATA REGUMATION[Here](https://datascience-9qyvfgasrfccjyyp3k8uez.streamlit.app/)<br/>
-AI MINI PROJECT(Prompt Engineering)<br/>
-🎓 AI Student Report Generator [Here](http://localhost:8505/)
- 
- 
- 
