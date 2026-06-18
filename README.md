@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Jeyasimhaa
 
-**Data Scientist :card_file_box: | App Development 🖥️ | Machine learning 📠** 
+**Data Scientist :card_file_box: | App Development 🖥️ | Machine learning 📠 | Deep Learning 📠** 
 
 ---
 
@@ -15,8 +15,8 @@
 | Area        | Skills                                                                 |
 |-------------|------------------------------------------------------------------------|
 | Languages   | Java (Intermediate DSA), Python (Intermediate), Go, Bash               |
-| Cloud       | StreamLit , Flask , GitHub Ingretration                                |
-| Tools       | Kali Linux, Wireshark, Git                                             |
+| Cloud       | StreamLit , GitHub Ingretration                                |
+| Tools       | Kali Linux, Git                                             |
 
 --- 
 
